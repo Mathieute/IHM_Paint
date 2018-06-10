@@ -1,2 +1,2 @@
 # IHM_Paint
-Projet IHM de S2 (DUT) : Prototype d'un logiciel de type Paint
+Pour accéder directement à l'exécutable du projet, ouvrez le fichier Paint.jar
